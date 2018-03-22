@@ -1,0 +1,22 @@
+{
+  "name": "@zm-credit-miniapp-templates/todo-configurable",
+  "version": "0.0.1",
+  "description": "",
+  "main": "''",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zm-credit-miniapp-templates/todo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zm-credit-miniapp-templates/todo/issues"
+  },
+  "homepage": "https://github.com/zm-credit-miniapp-templates/todo#readme"
+}
